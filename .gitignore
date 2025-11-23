@@ -3,3 +3,5 @@ dist/
 .env
 .DS_Store
 *.log
+
+Hackathon-2/google_earth_engine.json
